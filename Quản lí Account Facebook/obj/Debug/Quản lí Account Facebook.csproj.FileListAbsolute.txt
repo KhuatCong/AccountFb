@@ -1,0 +1,15 @@
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\bin\Debug\Quản lí Account Facebook.exe.config
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\bin\Debug\Quản lí Account Facebook.exe
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\bin\Debug\Quản lí Account Facebook.pdb
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\bin\Debug\EntityFramework.dll
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\bin\Debug\EntityFramework.SqlServer.dll
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\bin\Debug\EntityFramework.xml
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\bin\Debug\EntityFramework.SqlServer.xml
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản_lí_Account_Facebook.Form1.resources
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản_lí_Account_Facebook.Properties.Resources.resources
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản lí Account Facebook.csproj.GenerateResource.cache
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản lí Account Facebook.csproj.CoreCompileInputs.cache
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản lí Account Facebook.csproj.CopyComplete
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản lí Account Facebook.exe
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản lí Account Facebook.pdb
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản_lí_Account_Facebook.Form2.resources

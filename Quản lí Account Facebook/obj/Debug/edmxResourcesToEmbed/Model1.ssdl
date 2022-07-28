@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLTKFBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Table_TKFB">
+    <Key>
+      <PropertyRef Name="Tài khoản" />
+    </Key>
+    <Property Name="STT" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tài khoản" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mật khẩu" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tên người dùng" Type="nvarchar" MaxLength="50" />
+    <Property Name="Số điện thoại" Type="int" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="QLTKFBModelStoreContainer">
+    <EntitySet Name="Table_TKFB" EntityType="Self.Table_TKFB" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

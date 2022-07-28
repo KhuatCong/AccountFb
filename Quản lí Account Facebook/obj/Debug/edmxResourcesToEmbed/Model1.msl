@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLTKFBModelStoreContainer" CdmEntityContainer="QLTKFBEntities">
+    <EntitySetMapping Name="Table_TKFB">
+      <EntityTypeMapping TypeName="QLTKFBModel.Table_TKFB">
+        <MappingFragment StoreEntitySet="Table_TKFB">
+          <ScalarProperty Name="STT" ColumnName="STT" />
+          <ScalarProperty Name="Tài_khoản" ColumnName="Tài khoản" />
+          <ScalarProperty Name="Mật_khẩu" ColumnName="Mật khẩu" />
+          <ScalarProperty Name="Tên_người_dùng" ColumnName="Tên người dùng" />
+          <ScalarProperty Name="Số_điện_thoại" ColumnName="Số điện thoại" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
