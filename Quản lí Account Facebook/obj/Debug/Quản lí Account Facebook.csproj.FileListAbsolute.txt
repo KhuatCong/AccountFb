@@ -13,3 +13,4 @@ C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj
 C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản lí Account Facebook.exe
 C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản lí Account Facebook.pdb
 C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản_lí_Account_Facebook.Form2.resources
+C:\LT Winform C#.NET\Quản lí Account Facebook\Quản lí Account Facebook\obj\Debug\Quản lí Account Facebook.csproj.AssemblyReference.cache

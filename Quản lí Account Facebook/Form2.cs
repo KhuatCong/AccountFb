@@ -31,9 +31,11 @@ namespace Quản_lí_Account_Facebook
             {
                 if (lg.Table_TKFB.Where(x=>x.Tài_khoản==taikhoan).Count()>0 && lg.Table_TKFB.Where(x => x.Mật_khẩu == matkhau).Count() > 0)
                 {
-                    MessageBox.Show("Login thành công");
-                    Form2 f2 = new Form2();
-                    f2.Hide();
+                    DialogResult hideShow= MessageBox.Show("Login thành công","Thông báo",MessageBoxButtons.OK);
+                    if (hideShow==DialogResult.OK)
+                    {
+                        this.Close();
+                    }
                 }
                 else
                 {
